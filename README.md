@@ -2,6 +2,6 @@
 
 Simple Login-Auth for improve skills.
 
-###Using:
+## Using:
 
-1 - Html/CSS<br/>2 - PHP<br/>3 - MariaDB
+1 - Html/CSS<br/>2 - PHP<br/>3 - Mysql
