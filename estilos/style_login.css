@@ -1,0 +1,46 @@
+html{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+body{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #0066ff;
+    
+}
+
+.form-login{
+    max-width: 500px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: white;
+    display: block auto;
+    box-shadow: 0 0 30px black;
+    
+}
+
+.form-login .center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+.form-login .checkbox{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.form-login .form-control{
+    position: relative;
+    height: auto;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 5px;
+    
+}
+
+
+
