@@ -36,7 +36,7 @@
 
 
     <?php
-      include('auth.php');
+      include('server/auth.php');
     ?>
    
   </body>

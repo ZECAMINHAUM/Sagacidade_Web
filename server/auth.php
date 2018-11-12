@@ -21,6 +21,6 @@ $apa = $conn->query($query);
 
 if($apa->num_rows > 0){
     session_start();
-    header('Location:Main.php');
+    header('Location:./Main.php');
 }
 ?>
